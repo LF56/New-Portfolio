@@ -13,6 +13,12 @@ background-color: rgb(252, 192, 185);
     height: 56px;
     line-height: 56px;
 }
+a {
+    color: #000000;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: larger;
+}
 nav .nav-wrapper {
     position: relative;
     height: 100%;
@@ -45,4 +51,20 @@ font-size: 10rem;
 }
 #about p {
     font-size: larger;
+}
+.card{
+background-color: rgb(243, 224, 224);
+}
+nav {
+    color: #fff;
+    background-color: #ffffff00;
+    width: 100%;
+    height: 56px;
+    line-height: 56px;
+}
+
+nav a {
+    display: inline;
+    padding: 50px;
+    color: black;
 }
